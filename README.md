@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **C# Js**
 
-- 📫 How to reach me **https://www.linkedin.com/in/erkan-erdoyuran-098223230/**
+- 📫 How to reach me <a href="https://www.linkedin.com/in/erkan-erdoyuran-098223230/">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
