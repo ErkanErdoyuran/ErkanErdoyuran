@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erkan Erdoyuran</h1>
 <h3 align="center">A passionate Jr.FullStack from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erkanerdoyuran&label=Profile%20views&color=0e75b6&style=flat" alt="erkanerdoyuran" /> </p>
-
 - 🌱 I’m currently learning **ASP.NET CORE , Python**
 
 - 💬 Ask me about **C# Js**
@@ -20,3 +18,5 @@
   
 <h3 align="left">Frameworks:</h3>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erkanerdoyuran&label=Profile%20views&color=0e75b6&style=flat" alt="erkanerdoyuran" /> </p>
