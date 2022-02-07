@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ASP.NET CORE , Python**
 
-- 💬 Ask me about **C# Js**
+- 💬 Ask me about **C# , Js**
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/erkan-erdoyuran-098223230/">here</a>
 
